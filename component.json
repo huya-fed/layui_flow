@@ -1,0 +1,6 @@
+{
+    "repos": "https://github.com/huya-fed/layui_flow.git",
+    "version": "v1.0.0",
+    "name": "layui_flow",
+    "main": "layui_flow.js"
+}
